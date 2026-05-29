@@ -1,14 +1,16 @@
 <div align="center">
 
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQFZzou9pL0Agg/profile-displaybackgroundimage-shrink_200_800/B4DZmzACTBHwAU-/0/1759644761687?e=1779926400&v=beta&t=bAJIe8IbPh9arnUBgcuyKQL8ybQL1n9rLk0PBMLlklA)
+<!-- https://pixabay.com/photos/network-edp-plug-patch-cord-4393368/ -->
+
+![Banner](https://cdn.pixabay.com/photo/2019/08/08/16/51/network-4393368_1280.jpg)
 
 # Johnathan Donnelly
 
 *Networking and IT Security Student*
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/johnarp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1982b9?style=for-the-badge)](https://linkedin.com/in/johnathan-donnelly)
-[![HackerRank](https://img.shields.io/badge/HackerRank-29aa58?style=for-the-badge&logo=hackerrank&logoColor=ffffff)](https://hackerrank.com/johnathan_d)
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/johnarp)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0b65c3?style=for-the-badge&logo=linkedin-white&logoColor=ffffff)](https://linkedin.com/in/johnathan-donnelly)
+[![HackerRank](https://custom-icon-badges.demolab.com/badge/HackerRank-32c766?style=for-the-badge&logo=hackerrank&logoColor=ffffff)](https://hackerrank.com/johnathan_d)
 
 </div>
 
