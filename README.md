@@ -9,6 +9,7 @@
 *Networking and IT Security Student*
 
 [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/johnarp)
+[![GitLab](https://custom-icon-badges.demolab.com/badge/GitLab-e24329?style=for-the-badge&logo=gitlab&logoColor=ffffff)](https://gitlab.com/johnarp)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0b65c3?style=for-the-badge&logo=linkedin-white&logoColor=ffffff)](https://linkedin.com/in/johnathan-donnelly)
 [![HackerRank](https://custom-icon-badges.demolab.com/badge/HackerRank-32c766?style=for-the-badge&logo=hackerrank&logoColor=ffffff)](https://hackerrank.com/johnathan_d)
 
